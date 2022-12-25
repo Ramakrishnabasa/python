@@ -1,0 +1,8 @@
+n=input("enter number=")
+temp=n
+if[::-1]==temp:print("palindrome")
+else:print("not palindrome")
+
+output:
+enter number=121
+palindrome
